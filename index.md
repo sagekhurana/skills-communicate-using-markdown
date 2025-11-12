@@ -9,3 +9,7 @@ A paleontologist studies paleontology through fossils, which are the physical or
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portolio
+- [ ] Introduce myself to the world
